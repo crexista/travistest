@@ -1,4 +1,4 @@
-cache:
-  - bundler
 before_script:
   - bundle exec danger
+script:
+  - echo "test"

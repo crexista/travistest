@@ -1,4 +1,2 @@
 before_script:
   - bundle exec danger
-script:
-  - echo "aaaaa"

@@ -1,4 +1,4 @@
 cache:
-  - bundle install
+  - bundler
 before_script:
   - bundle exec danger

@@ -1,2 +1,3 @@
 before_script:
+  - gem update --system
 

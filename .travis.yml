@@ -1,4 +1,4 @@
 cache:
-  - gem install bundler
+  - bundle install
 before_script:
   - bundle exec danger
